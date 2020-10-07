@@ -1,5 +1,7 @@
 # Question-9-CSCI-313
 
+GROUP 2: Luke Fang, Gomes Mikhaiel, Hila Ergys, Ibrat Nazara, Kaur Rupinder
+
 
 A program that finds if a random sequence is a De Bruijn sequence.
 
